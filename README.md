@@ -1,4 +1,5 @@
 # SisDesp
 > Sistema Para Despachantes
 
-Constrole completo sobre documentos com consultas automáticas de débitos.
+Controle completo sobre documentos com consultas automáticas de débitos.
+Gerador de documentos.
